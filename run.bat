@@ -1,0 +1,1 @@
+encoder_app.exe --config encode_IPPP.cfg
